@@ -1,0 +1,4 @@
+{
+  "backupFrequency": 3600,
+  "maxBackupFiles": 72
+}

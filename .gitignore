@@ -1,0 +1,12 @@
+*.log
+*.pyc
+*.DS_Store
+*.so
+*.dylib
+
+servers.json
+backups
+logs
+
+ca.key
+ca.crt
